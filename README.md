@@ -2,10 +2,11 @@
 
 First time ever finishing a whole advent of code! Really enjoyed in solving the problems and speed coding.
 
-Could have got another several points if not with the 5AM groggy head (AoC is so unfriendly for my time zone :(
+Could have got another several points if not with the 5AM groggy head (AoC is not very friendly for my time zone :(
 
 Final result:
 
+```
 You have 9 points.
 
       --------Part 1--------   --------Part 2--------
@@ -35,3 +36,4 @@ Day       Time   Rank  Score       Time   Rank  Score
   3   08:23:35  56995      0   08:31:34  51389      0
   2   00:04:31    240      0   00:06:08     92      9
   1   00:27:23   9396      0   00:28:21   8309      0
+```
